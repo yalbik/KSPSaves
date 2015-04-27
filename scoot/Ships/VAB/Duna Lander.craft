@@ -2,7 +2,7 @@ ship = Duna Lander
 version = 0.90.0
 description = 
 type = VAB
-size = 8.864681,33.01542,8.864691
+size = 8.864682,33.01542,8.864695
 PART
 {
 	part = landerCabinSmall_4294591416
@@ -297,7 +297,7 @@ PART
 {
 	part = parachuteRadial_4294584552
 	partName = Part
-	pos = -0.5611922,32.73544,-0.5305982
+	pos = -0.5611923,32.73544,-0.5305983
 	attPos = 0,0,0
 	attPos0 = 0.5728147,0.1971684,-0.5728147
 	rot = 4.088553E-07,-0.3826835,-1.693534E-07,-0.9238796
@@ -423,7 +423,7 @@ PART
 {
 	part = parachuteRadial_4294584156
 	partName = Part
-	pos = -0.561192,32.73544,0.6150327
+	pos = -0.5611921,32.73544,0.6150328
 	attPos = 0,0,0
 	attPos0 = -0.5728147,0.1971684,-0.5728147
 	rot = 1.693534E-07,-0.9238797,-4.088553E-07,-0.3826834
@@ -549,7 +549,7 @@ PART
 {
 	part = parachuteRadial_4294584106
 	partName = Part
-	pos = 0.584439,32.73544,0.6150326
+	pos = 0.5844391,32.73544,0.6150327
 	attPos = 0,0,0
 	attPos0 = -0.5728147,0.1971684,0.5728148
 	rot = -1.693535E-07,-0.9238795,-4.088552E-07,0.3826836
@@ -675,7 +675,7 @@ PART
 {
 	part = parachuteRadial_4294584056
 	partName = Part
-	pos = 0.5844387,32.73544,-0.5305983
+	pos = 0.5844388,32.73544,-0.5305984
 	attPos = 0,0,0
 	attPos0 = 0.5728147,0.1971684,0.5728146
 	rot = -4.088553E-07,-0.3826834,-1.693534E-07,0.9238797
@@ -801,7 +801,7 @@ PART
 {
 	part = parachuteRadial_4294583812
 	partName = Part
-	pos = 0.0116235,32.72505,0.8506457
+	pos = 0.0116235,32.72505,0.850646
 	attPos = 0,0,0
 	attPos0 = -0.8084265,0.1867781,4.818601E-08
 	rot = -4.019437E-14,1,-1.490116E-07,-2.528811E-07
@@ -924,7 +924,7 @@ PART
 {
 	part = parachuteRadial_4294583408
 	partName = Part
-	pos = 0.0116235,32.26063,0.8539028
+	pos = 0.0116235,32.26063,0.8539031
 	attPos = 0,0,0
 	attPos0 = -0.8116837,-0.2776432,4.838015E-08
 	rot = -0.7071068,0.7071068,8.42937E-08,-2.528811E-07
@@ -1047,7 +1047,7 @@ PART
 {
 	part = stackBiCoupler_4294580240
 	partName = Part
-	pos = 0.01162332,33.43144,-0.6085457
+	pos = 0.01162332,33.43144,-0.6085458
 	attPos = 0,0,0
 	attPos0 = 0.6507621,0.8931665,3.878841E-08
 	rot = 0,-0.7071068,0,0.7071068
@@ -1371,7 +1371,7 @@ PART
 {
 	part = parachuteRadial_4294572668
 	partName = Part
-	pos = -0.5630295,32.72639,-1.833961
+	pos = -0.5630296,32.72639,-1.833961
 	attPos = 0,0,0
 	attPos0 = 0.574652,0.1881161,-0.5746519
 	rot = 3.916765E-07,-0.3826837,-1.622378E-07,-0.9238795
@@ -1497,7 +1497,7 @@ PART
 {
 	part = parachuteRadial_4294572264
 	partName = Part
-	pos = -0.56303,32.72639,-0.6846576
+	pos = -0.5630302,32.72639,-0.6846578
 	attPos = 0,0,0
 	attPos0 = -0.5746515,0.1881161,-0.5746519
 	rot = 1.622376E-07,-0.9238797,-3.916766E-07,-0.3826833
@@ -1623,7 +1623,7 @@ PART
 {
 	part = parachuteRadial_4294572214
 	partName = Part
-	pos = 0.5862768,32.72639,-0.6846578
+	pos = 0.586277,32.72639,-0.684658
 	attPos = 0,0,0
 	attPos0 = -0.5746515,0.1881161,0.574652
 	rot = -1.622378E-07,-0.9238794,-3.916764E-07,0.3826837
@@ -1749,7 +1749,7 @@ PART
 {
 	part = parachuteRadial_4294572164
 	partName = Part
-	pos = 0.5862758,32.72639,-1.833961
+	pos = 0.5862759,32.72639,-1.833961
 	attPos = 0,0,0
 	attPos0 = 0.5746523,0.1881161,0.5746518
 	rot = -3.916766E-07,-0.3826833,-1.622376E-07,0.9238797
@@ -2121,7 +2121,7 @@ PART
 {
 	part = mumech.MJ2.AR202_4294569730
 	partName = Part
-	pos = 0.8200271,32.34087,0.04221708
+	pos = 0.8200274,32.34087,0.04221708
 	attPos = 0,0,0
 	attPos0 = -2.722781E-15,-0.1974049,0.8084015
 	rot = 1.121969E-07,1,-5.024296E-15,0
@@ -2235,7 +2235,32 @@ PART
 				unlockParts = 
 				unlockTechs = 
 			}
-			MechJebModuleJokeObscurePanel
+			MechJebModuleAscentAutopilot
+			{
+				unlockParts = 
+				unlockTechs = 
+			}
+			MechJebModuleAscentGuidance
+			{
+				unlockParts = 
+				unlockTechs = unmannedTech
+			}
+			MechJebModuleAscentPathEditor
+			{
+				unlockParts = 
+				unlockTechs = 
+			}
+			MechJebModuleAttitudeAdjustment
+			{
+				unlockParts = 
+				unlockTechs = advFlightControl
+			}
+			MechJebModuleCustomWindowEditor
+			{
+				unlockParts = 
+				unlockTechs = flightControl
+			}
+			MechJebModuleDebugArrows
 			{
 				unlockParts = 
 				unlockTechs = 
@@ -2253,25 +2278,20 @@ PART
 					_text = 0
 				}
 			}
-			MechJebModuleAttitudeAdjustment
+			MechJebModuleDockingGuidance
 			{
 				unlockParts = 
-				unlockTechs = advFlightControl
+				unlockTechs = advUnmanned
 			}
-			MechJebModuleRoverWindow
-			{
-				unlockParts = 
-				unlockTechs = fieldScience
-			}
-			MechJebModuleStageStats
+			MechJebModuleInfoItems
 			{
 				unlockParts = 
 				unlockTechs = 
 			}
-			MechJebModuleAscentGuidance
+			MechJebModuleJokeObscurePanel
 			{
 				unlockParts = 
-				unlockTechs = unmannedTech
+				unlockTechs = 
 			}
 			MechJebModuleLandingAutopilot
 			{
@@ -2296,12 +2316,18 @@ PART
 					_text = 0
 				}
 			}
-			MechJebModuleSpaceplaneAutopilot
+			MechJebModuleLandingGuidance
+			{
+				landingSiteIdx = 0
+				unlockParts = 
+				unlockTechs = unmannedTech
+			}
+			MechJebModuleLandingPredictions
 			{
 				unlockParts = 
 				unlockTechs = 
 			}
-			MechJebModuleRCSBalancerWindow
+			MechJebModuleManeuverPlanner
 			{
 				unlockParts = 
 				unlockTechs = advFlightControl
@@ -2311,50 +2337,62 @@ PART
 				unlockParts = 
 				unlockTechs = advFlightControl
 			}
-			MechJebModuleAscentPathEditor
+			MechJebModuleNodeExecutor
 			{
 				unlockParts = 
 				unlockTechs = 
 			}
-			MechJebModuleAscentAutopilot
+			MechJebModuleRCSBalancerWindow
+			{
+				unlockParts = 
+				unlockTechs = advFlightControl
+			}
+			MechJebModuleRendezvousAutopilot
 			{
 				unlockParts = 
 				unlockTechs = 
 			}
-			MechJebModuleLandingPredictions
+			MechJebModuleRendezvousAutopilotWindow
 			{
 				unlockParts = 
-				unlockTechs = 
+				unlockTechs = advUnmanned
 			}
 			MechJebModuleRendezvousGuidance
 			{
 				unlockParts = 
 				unlockTechs = advUnmanned
 			}
-			MechJebModuleInfoItems
+			MechJebModuleRoverController
 			{
+				ControlHeading = False
+				ControlSpeed = False
+				BrakeOnEject = False
+				BrakeOnEnergyDepletion = False
+				WarpToDaylight = True
+				StabilityControl = False
+				LimitAcceleration = False
 				unlockParts = 
 				unlockTechs = 
-			}
-			MechJebModuleSmartRcs
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleDebugArrows
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleWarpHelper
-			{
-				unlockParts = 
-				unlockTechs = advFlightControl
-				phaseAngle
+				heading
 				{
 					_val = 0
 					_text = 0
 				}
+				speed
+				{
+					_val = 10
+					_text = 10
+				}
+			}
+			MechJebModuleRoverWindow
+			{
+				unlockParts = 
+				unlockTechs = fieldScience
+			}
+			MechJebModuleSettings
+			{
+				unlockParts = 
+				unlockTechs = 
 			}
 			MechJebModuleSmartASS
 			{
@@ -2401,82 +2439,12 @@ PART
 					_text = 0
 				}
 			}
-			MechJebModuleLandingGuidance
-			{
-				landingSiteIdx = 0
-				unlockParts = 
-				unlockTechs = unmannedTech
-			}
-			MechJebModuleRendezvousAutopilot
+			MechJebModuleSmartRcs
 			{
 				unlockParts = 
 				unlockTechs = 
 			}
-			MechJebModuleTargetController
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			ModExtensionDemo
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleDockingGuidance
-			{
-				unlockParts = 
-				unlockTechs = advUnmanned
-			}
-			MechJebModuleTranslatron
-			{
-				trans_spd = 0
-				unlockParts = 
-				unlockTechs = advFlightControl
-			}
-			MechJebModuleThrustWindow
-			{
-				autostageSavedState = False
-				unlockParts = 
-				unlockTechs = advFlightControl
-			}
-			MechJebModuleRendezvousAutopilotWindow
-			{
-				unlockParts = 
-				unlockTechs = advUnmanned
-			}
-			MechJebModuleManeuverPlanner
-			{
-				unlockParts = 
-				unlockTechs = advFlightControl
-			}
-			MechJebModuleRoverController
-			{
-				ControlHeading = False
-				ControlSpeed = False
-				BrakeOnEject = False
-				BrakeOnEnergyDepletion = False
-				WarpToDaylight = True
-				StabilityControl = False
-				LimitAcceleration = False
-				unlockParts = 
-				unlockTechs = 
-				heading
-				{
-					_val = 0
-					_text = 0
-				}
-				speed
-				{
-					_val = 10
-					_text = 10
-				}
-			}
-			MechJebModuleCustomWindowEditor
-			{
-				unlockParts = 
-				unlockTechs = flightControl
-			}
-			MechJebModuleSettings
+			MechJebModuleSpaceplaneAutopilot
 			{
 				unlockParts = 
 				unlockTechs = 
@@ -2487,10 +2455,37 @@ PART
 				unlockParts = 
 				unlockTechs = unmannedTech
 			}
-			MechJebModuleNodeExecutor
+			MechJebModuleStageStats
 			{
 				unlockParts = 
 				unlockTechs = 
+			}
+			MechJebModuleTargetController
+			{
+				unlockParts = 
+				unlockTechs = 
+			}
+			MechJebModuleThrustWindow
+			{
+				autostageSavedState = False
+				unlockParts = 
+				unlockTechs = advFlightControl
+			}
+			MechJebModuleTranslatron
+			{
+				trans_spd = 0
+				unlockParts = 
+				unlockTechs = advFlightControl
+			}
+			MechJebModuleWarpHelper
+			{
+				unlockParts = 
+				unlockTechs = advFlightControl
+				phaseAngle
+				{
+					_val = 0
+					_text = 0
+				}
 			}
 			MechJebModuleWaypointWindow
 			{
@@ -2498,6 +2493,11 @@ PART
 				unlockTechs = 
 			}
 			MechJebModuleWaypointHelpWindow
+			{
+				unlockParts = 
+				unlockTechs = 
+			}
+			ModExtensionDemo
 			{
 				unlockParts = 
 				unlockTechs = 
@@ -2519,6 +2519,12 @@ PART
 				unlockParts = 
 				unlockTechs = 
 			}
+			MechJebModuleSolarPanelController
+			{
+				prev_ShouldOpenSolarPanels = False
+				unlockParts = 
+				unlockTechs = 
+			}
 			MechJebModuleThrustController
 			{
 				limitThrottle = False
@@ -2529,12 +2535,6 @@ PART
 					_val = 1
 					_text = 100
 				}
-			}
-			MechJebModuleSolarPanelController
-			{
-				prev_ShouldOpenSolarPanels = False
-				unlockParts = 
-				unlockTechs = 
 			}
 			MechJebModuleRCSController
 			{
@@ -2619,7 +2619,7 @@ PART
 {
 	part = longAntenna_4294561748
 	partName = Part
-	pos = 0.8258596,32.34196,-1.259309
+	pos = 0.8258598,32.34196,-1.259309
 	attPos = 0,0,0
 	attPos0 = 2.384186E-07,-0.1963129,0.8142348
 	rot = 0.5000001,0.5000001,-0.5000001,0.4999999
@@ -2714,7 +2714,7 @@ PART
 {
 	part = parachuteLarge_4294556132
 	partName = Part
-	pos = 0.01162332,33.68907,-0.608546
+	pos = 0.01162332,33.68907,-0.6085461
 	attPos = 0,0,0
 	attPos0 = -1.192093E-07,0.2576303,-1.421085E-14
 	rot = 0,0,0,1
@@ -3121,7 +3121,7 @@ PART
 {
 	part = stackBiCoupler_4294552522
 	partName = Part
-	pos = 0.01162324,30.52011,-0.6085457
+	pos = 0.01162324,30.52011,-0.6085458
 	attPos = 0,0,0
 	attPos0 = 0.6507621,-0.7806664,-3.878849E-08
 	rot = 0.7071068,0,0.7071068,0
@@ -3154,7 +3154,7 @@ PART
 {
 	part = GooExperiment_4294547862
 	partName = Part
-	pos = 0.01162342,31.37177,0.5147466
+	pos = 0.01162342,31.37177,0.5147467
 	attPos = 0,0,0
 	attPos0 = -0.4725286,0.07099438,4.410822E-09
 	rot = 1.256074E-14,1,7.2738E-08,-1.685874E-07
@@ -3295,7 +3295,7 @@ PART
 	pos = 0.01162339,31.34412,-1.729154
 	attPos = 0,0,0
 	attPos0 = 0.4698444,0.04334927,2.043867E-07
-	rot = -7.27381E-08,-5.900559E-07,4.521866E-14,-1
+	rot = -7.273811E-08,-5.900559E-07,4.521866E-14,-1
 	attRot = 0,0,0,1
 	attRot0 = -5.143358E-08,0.7071064,-5.143351E-08,-0.7071072
 	mir = 1,1,1
@@ -3430,7 +3430,7 @@ PART
 {
 	part = sensorBarometer_4294545340
 	partName = Part
-	pos = 0.633994,31.13234,-1.259309
+	pos = 0.6339942,31.13234,-1.259309
 	attPos = 0,0,0
 	attPos0 = 3.576279E-07,-0.1684332,0.6223692
 	rot = -9.240609E-15,0.7071066,-9.240609E-15,-0.7071071
@@ -3564,7 +3564,7 @@ PART
 {
 	part = sensorBarometer_4294545038
 	partName = Part
-	pos = 0.6347091,31.13392,0.04221711
+	pos = 0.6347092,31.13392,0.04221711
 	attPos = 0,0,0
 	attPos0 = 1.749141E-15,-0.1668549,0.623085
 	rot = -1.011339E-14,0.7071066,-1.011338E-14,-0.7071071
@@ -3698,7 +3698,7 @@ PART
 {
 	part = sensorThermometer_4294544326
 	partName = Part
-	pos = 0.6309056,31.5463,-1.259309
+	pos = 0.6309058,31.5463,-1.259309
 	attPos = 0,0,0
 	attPos0 = 3.576279E-07,0.2455215,0.6192809
 	rot = -1.011339E-14,0.7071066,-1.011338E-14,-0.7071071
@@ -3832,7 +3832,7 @@ PART
 {
 	part = sensorThermometer_4294543846
 	partName = Part
-	pos = 0.630727,31.53947,0.04221711
+	pos = 0.6307271,31.53947,0.04221711
 	attPos = 0,0,0
 	attPos0 = 1.692551E-15,0.2387028,0.6191028
 	rot = -1.011339E-14,0.7071066,-1.011338E-14,-0.7071071
@@ -3966,7 +3966,7 @@ PART
 {
 	part = fuelTank1-2_4294537788
 	partName = Part
-	pos = 0.01162324,28.38954,-0.6085458
+	pos = 0.01162324,28.38954,-0.6085459
 	attPos = 0,0,0
 	attPos0 = -1.192093E-07,2.130566,1.421085E-14
 	rot = 0,0,0,1
@@ -4035,7 +4035,7 @@ PART
 {
 	part = liquidEngine2-2_4294534548
 	partName = Part
-	pos = 0.01162324,25.7876,-0.608546
+	pos = 0.01162324,25.7876,-0.6085461
 	attPos = 0,0,0
 	attPos0 = 2.842171E-14,-2.60194,-1.192093E-07
 	rot = 0,0,0,1
@@ -4247,7 +4247,7 @@ PART
 {
 	part = strutConnector_4294530678
 	partName = CompoundPart
-	pos = -0.9950984,30.16613,-0.6085445
+	pos = -0.9950986,30.16613,-0.6085444
 	attPos = 0,0,0
 	attPos0 = -1.00672,1.776593,-1.184082E-07
 	rot = -0.4999996,0.5000005,-0.4999996,0.5000006
@@ -4305,7 +4305,7 @@ PART
 {
 	part = strutConnector_4294530420
 	partName = CompoundPart
-	pos = 1.018344,30.16613,-0.6085476
+	pos = 1.018344,30.16613,-0.608548
 	attPos = 0,0,0
 	attPos0 = 1.00672,1.776593,-2.392197E-07
 	rot = -0.4999995,0.5000006,0.4999996,-0.5000005
@@ -4363,7 +4363,7 @@ PART
 {
 	part = strutConnector_4294529898
 	partName = CompoundPart
-	pos = -1.119797,30.16613,-0.6085445
+	pos = -1.119797,30.16613,-0.6085444
 	attPos = 0,0,0
 	attPos0 = -1.13142,1.776593,-1.631475E-07
 	rot = -0.4999996,0.5000005,-0.4999996,0.5000006
@@ -4421,7 +4421,7 @@ PART
 {
 	part = strutConnector_4294529720
 	partName = CompoundPart
-	pos = 1.143044,30.16613,-0.6085489
+	pos = 1.143044,30.16613,-0.6085494
 	attPos = 0,0,0
 	attPos0 = 1.13142,1.776593,-3.732944E-07
 	rot = -0.4999995,0.5000006,0.4999996,-0.5000005
@@ -4479,7 +4479,7 @@ PART
 {
 	part = ksp.r.largeBatteryPack_4294523114
 	partName = Part
-	pos = -1.197923,27.91017,-0.6085445
+	pos = -1.197923,27.91017,-0.6085444
 	attPos = 0,0,0
 	attPos0 = -1.209546,-0.4793702,-1.538342E-07
 	rot = 0,0.7071069,0,0.7071069
@@ -4521,7 +4521,7 @@ PART
 {
 	part = ksp.r.largeBatteryPack_4294523002
 	partName = Part
-	pos = 1.221169,27.91017,-0.6085489
+	pos = 1.221169,27.91017,-0.6085494
 	attPos = 0,0,0
 	attPos0 = 1.209546,-0.4793702,-3.826077E-07
 	rot = 0,0.7071069,0,-0.7071069
@@ -4563,7 +4563,7 @@ PART
 {
 	part = landingLeg1_4294522536
 	partName = Part
-	pos = -1.153729,26.64992,0.06427289
+	pos = -1.153729,26.64992,0.06427319
 	attPos = 0,0,0
 	attPos0 = -1.165352,-1.739623,0.6728161
 	rot = 1.17811E-07,0.2588187,4.396774E-07,0.9659261
@@ -4693,7 +4693,7 @@ PART
 {
 	part = landingLeg1_4294521774
 	partName = Part
-	pos = 0.01162089,26.64992,0.7370871
+	pos = 0.01162057,26.64992,0.7370871
 	attPos = 0,0,0
 	attPos0 = -4.324048E-07,-1.739623,1.345632
 	rot = 3.21866E-07,0.7071066,3.218662E-07,0.7071072
@@ -4823,7 +4823,7 @@ PART
 {
 	part = landingLeg1_4294521676
 	partName = Part
-	pos = 1.176975,26.64992,0.0642688
+	pos = 1.176975,26.64992,0.0642685
 	attPos = 0,0,0
 	attPos0 = 1.165352,-1.739623,0.6728162
 	rot = 4.396772E-07,0.9659259,1.178113E-07,0.2588194
@@ -5083,7 +5083,7 @@ PART
 {
 	part = landingLeg1_4294521480
 	partName = Part
-	pos = 0.01162551,26.64992,-1.954178
+	pos = 0.01162583,26.64992,-1.954178
 	attPos = 0,0,0
 	attPos0 = 3.52199E-07,-1.739623,-1.345633
 	rot = 3.218662E-07,0.7071071,-3.21866E-07,-0.7071067
@@ -5343,7 +5343,7 @@ PART
 {
 	part = solarPanels4_4294519938
 	partName = Part
-	pos = -0.867052,29.54991,0.2701291
+	pos = -0.8670524,29.54991,0.2701294
 	attPos = 0,0,0
 	attPos0 = -0.8786728,1.160363,0.8786723
 	rot = 1.741927E-07,0.3826835,4.205383E-07,0.9238796
@@ -5426,7 +5426,7 @@ PART
 {
 	part = solarPanels4_4294519230
 	partName = Part
-	pos = 0.8902953,29.54991,0.2701258
+	pos = 0.8902953,29.54991,0.2701257
 	attPos = 0,0,0
 	attPos0 = 0.8786721,1.160363,0.8786725
 	rot = 4.205384E-07,0.9238797,1.741927E-07,0.3826835
@@ -5509,7 +5509,7 @@ PART
 {
 	part = solarPanels4_4294519128
 	partName = Part
-	pos = 0.8902992,29.54991,-1.487224
+	pos = 0.8902997,29.54991,-1.487225
 	attPos = 0,0,0
 	attPos0 = 0.8786728,1.160363,-0.8786728
 	rot = 4.205384E-07,0.9238797,-1.741927E-07,-0.3826835
@@ -5675,7 +5675,7 @@ PART
 {
 	part = stackSeparatorBig_4294513754
 	partName = Part
-	pos = 0.01162324,24.95217,-0.6085461
+	pos = 0.01162324,24.95217,-0.6085462
 	attPos = 0,0,0
 	attPos0 = 2.842171E-14,-0.8354359,-1.192093E-07
 	rot = 0,0,0,1
@@ -5757,7 +5757,7 @@ PART
 {
 	part = asasmodule1-2_4294511728
 	partName = Part
-	pos = 0.01162324,24.60217,-0.6085462
+	pos = 0.01162324,24.60217,-0.6085463
 	attPos = 0,0,0
 	attPos0 = 2.842172E-14,-0.3500006,-1.192093E-07
 	rot = 0,0,0,1
@@ -5826,7 +5826,7 @@ PART
 {
 	part = fuelTank2-2_4294472220
 	partName = Part
-	pos = 0.01162324,23.41467,-0.6085463
+	pos = 0.01162324,23.41467,-0.6085464
 	attPos = 0,0,0
 	attPos0 = -4.988011E-11,-1.1875,-1.192093E-07
 	rot = 0,0,0,1
@@ -5879,7 +5879,7 @@ PART
 {
 	part = fuelTank1-2_4294474382
 	partName = Part
-	pos = 0.01162324,20.60217,-0.6085464
+	pos = 0.01162324,20.60217,-0.6085465
 	attPos = 0,0,0
 	attPos0 = 2.842171E-14,-2.812501,-1.192093E-07
 	rot = 0,0,0,1
@@ -5932,7 +5932,7 @@ PART
 {
 	part = fuelTank3-2_4294476522
 	partName = Part
-	pos = 0.01162324,14.97717,-0.6085466
+	pos = 0.01162324,14.97717,-0.6085467
 	attPos = 0,0,0
 	attPos0 = 2.842171E-14,-5.625001,-1.192093E-07
 	rot = 0,0,0,1
@@ -5989,7 +5989,7 @@ PART
 {
 	part = liquidEngine1-2_4294483340
 	partName = Part
-	pos = 0.01162324,10.16185,-0.6085467
+	pos = 0.01162324,10.16185,-0.6085468
 	attPos = 0,0,0
 	attPos0 = 2.842171E-14,-4.815313,-1.192093E-07
 	rot = 0,0,0,1
@@ -6199,7 +6199,7 @@ PART
 {
 	part = radialDecoupler2_4294468392
 	partName = Part
-	pos = 0.0116251,12.31012,-1.786523
+	pos = 0.01162538,12.31012,-1.786523
 	attPos = 0,0,0
 	attPos0 = 1.811997E-07,-2.667039,-1.177976
 	rot = 2.641223E-07,0.7071068,-2.641224E-07,-0.707107
@@ -6283,7 +6283,7 @@ PART
 {
 	part = fuelTank3-2_4294464358
 	partName = Part
-	pos = 0.0116292,11.77571,-3.656639
+	pos = 0.01162993,11.77571,-3.656641
 	attPos = 0,0,0
 	attPos0 = -1.870105,-0.5344072,-1.733012E-06
 	rot = -1.071079E-07,0.7071071,1.071074E-07,-0.7071067
@@ -6341,7 +6341,7 @@ PART
 {
 	part = fuelTank3-2_4294449764
 	partName = Part
-	pos = 0.01162993,19.27571,-3.65664
+	pos = 0.01163066,19.27571,-3.656642
 	attPos = 0,0,0
 	attPos0 = -2.748975E-06,7.499999,-7.273674E-07
 	rot = 3.148584E-14,-1,-5.989428E-21,-8.42937E-08
@@ -6396,7 +6396,7 @@ PART
 {
 	part = strutConnector_4294443674
 	partName = CompoundPart
-	pos = 0.01162832,22.63093,-2.447935
+	pos = 0.01162876,22.63093,-2.447936
 	attPos = 0,0,0
 	attPos0 = -7.165802E-07,3.355217,-1.208697
 	rot = 1.580009E-07,0.7071068,1.58001E-07,0.7071071
@@ -6456,7 +6456,7 @@ PART
 {
 	part = fuelTank1-2_4294447660
 	partName = Part
-	pos = 0.01162993,6.150673,-3.656641
+	pos = 0.01163066,6.150667,-3.656643
 	attPos = 0,0,0
 	attPos0 = -6.502745E-07,-5.625006,-7.273584E-07
 	rot = 3.148584E-14,-1,-5.989428E-21,-8.42937E-08
@@ -6513,7 +6513,7 @@ PART
 {
 	part = liquidEngine1-2_4294447260
 	partName = Part
-	pos = 0.01163065,3.210371,-3.656643
+	pos = 0.01163138,3.210367,-3.656645
 	attPos = 0,0,0
 	attPos0 = -7.27363E-07,-2.940313,1.498926E-06
 	rot = 3.148584E-14,-1,-5.989428E-21,-8.42937E-08
@@ -6726,7 +6726,7 @@ PART
 {
 	part = radialDecoupler2_4294440194
 	partName = Part
-	pos = -1.166352,12.31012,-0.6085452
+	pos = -1.166352,12.31012,-0.6085451
 	attPos = 0,0,0
 	attPos0 = -1.177975,-2.667039,-1.575977E-07
 	rot = -8.038874E-14,-1.685874E-07,-3.735259E-07,-1
@@ -6810,7 +6810,7 @@ PART
 {
 	part = fuelTank3-2_4294440144
 	partName = Part
-	pos = -3.036463,11.77571,-0.6085429
+	pos = -3.036464,11.77571,-0.6085423
 	attPos = 0,0,0
 	attPos0 = -1.870105,-0.5344072,-1.733012E-06
 	rot = -3.56725E-13,2.528811E-07,1.514731E-07,-1
@@ -6868,10 +6868,10 @@ PART
 {
 	part = fuelTank3-2_4294440112
 	partName = Part
-	pos = -3.036464,19.27571,-0.6085436
+	pos = -3.036465,19.27571,-0.608543
 	attPos = 0,0,0
 	attPos0 = -2.748975E-06,7.499999,-7.273674E-07
-	rot = 1.616027E-14,-0.7071069,-4.068316E-14,0.7071069
+	rot = 1.96084E-14,-0.7071069,-3.723502E-14,0.7071069
 	attRot = 0,0,0,1
 	attRot0 = -1.071074E-07,0.7071067,-1.071079E-07,-0.7071069
 	mir = 1,1,1
@@ -6923,10 +6923,10 @@ PART
 {
 	part = strutConnector_4294440080
 	partName = CompoundPart
-	pos = -1.82776,22.63093,-0.6085464
+	pos = -1.82776,22.63093,-0.6085461
 	attPos = 0,0,0
 	attPos0 = -7.165802E-07,3.355217,-1.208697
-	rot = 2.234476E-07,1,4.019437E-14,1.685874E-07
+	rot = 2.234477E-07,1,4.019437E-14,1.685874E-07
 	attRot = 0,0,0,1
 	attRot0 = 1.580009E-07,0.7071069,-1.580009E-07,-0.7071068
 	mir = 1,1,1
@@ -6983,10 +6983,10 @@ PART
 {
 	part = fuelTank1-2_4294440016
 	partName = Part
-	pos = -3.036465,6.150673,-0.6085436
+	pos = -3.036466,6.150667,-0.608543
 	attPos = 0,0,0
 	attPos0 = -6.502745E-07,-5.625006,-7.273584E-07
-	rot = 1.616027E-14,-0.7071069,-4.068316E-14,0.7071069
+	rot = 1.96084E-14,-0.7071069,-3.723502E-14,0.7071069
 	attRot = 0,0,0,1
 	attRot0 = -1.071074E-07,0.7071067,-1.071079E-07,-0.7071069
 	mir = 1,1,1
@@ -7040,10 +7040,10 @@ PART
 {
 	part = liquidEngine1-2_4294439984
 	partName = Part
-	pos = -3.036467,3.210371,-0.6085443
+	pos = -3.036468,3.210367,-0.6085437
 	attPos = 0,0,0
 	attPos0 = -7.27363E-07,-2.940313,1.498926E-06
-	rot = 1.616027E-14,-0.7071069,-1.226144E-14,0.7071069
+	rot = 1.960841E-14,-0.7071069,-8.813309E-15,0.7071069
 	attRot = 0,0,0,1
 	attRot0 = -3.162647E-28,1.219102E-15,-7.305417E-22,1
 	mir = 1,1,1
@@ -7253,7 +7253,7 @@ PART
 {
 	part = radialDecoupler2_4294439838
 	partName = Part
-	pos = 0.01162148,12.31012,0.5694301
+	pos = 0.0116212,12.31012,0.5694302
 	attPos = 0,0,0
 	attPos0 = -7.78228E-08,-2.667039,1.177975
 	rot = -2.641224E-07,-0.7071071,-2.641223E-07,-0.7071067
@@ -7337,7 +7337,7 @@ PART
 {
 	part = fuelTank3-2_4294439788
 	partName = Part
-	pos = 0.01161816,11.77571,2.439541
+	pos = 0.01161743,11.77571,2.439542
 	attPos = 0,0,0
 	attPos0 = -1.870105,-0.5344072,-1.733012E-06
 	rot = 1.071074E-07,-0.7071068,1.071079E-07,-0.707107
@@ -7395,7 +7395,7 @@ PART
 {
 	part = fuelTank3-2_4294439756
 	partName = Part
-	pos = 0.01161744,19.27571,2.439543
+	pos = 0.01161671,19.27571,2.439544
 	attPos = 0,0,0
 	attPos0 = -2.748975E-06,7.499999,-7.273674E-07
 	rot = 0,0,0,1
@@ -7450,7 +7450,7 @@ PART
 {
 	part = strutConnector_4294439724
 	partName = CompoundPart
-	pos = 0.01161854,22.63093,1.230842
+	pos = 0.0116181,22.63093,1.230842
 	attPos = 0,0,0
 	attPos0 = -7.165802E-07,3.355217,-1.208697
 	rot = 1.58001E-07,0.7071071,-1.580009E-07,-0.7071068
@@ -7510,7 +7510,7 @@ PART
 {
 	part = fuelTank1-2_4294439660
 	partName = Part
-	pos = 0.01161744,6.150673,2.439545
+	pos = 0.01161671,6.150667,2.439546
 	attPos = 0,0,0
 	attPos0 = -6.502745E-07,-5.625006,-7.273584E-07
 	rot = 0,0,0,1
@@ -7567,7 +7567,7 @@ PART
 {
 	part = liquidEngine1-2_4294439628
 	partName = Part
-	pos = 0.01161671,3.210371,2.439549
+	pos = 0.01161598,3.210367,2.439551
 	attPos = 0,0,0
 	attPos0 = -7.27363E-07,-2.940313,1.498926E-06
 	rot = 0,0,0,1
@@ -7780,7 +7780,7 @@ PART
 {
 	part = radialDecoupler2_4294439482
 	partName = Part
-	pos = 1.189599,12.31012,-0.6085496
+	pos = 1.189599,12.31012,-0.6085501
 	attPos = 0,0,0
 	attPos0 = 1.177975,-2.667039,-3.192395E-07
 	rot = -3.735259E-07,-1,8.038874E-14,1.685874E-07
@@ -7864,7 +7864,7 @@ PART
 {
 	part = fuelTank3-2_4294439432
 	partName = Part
-	pos = 3.059709,11.77571,-0.6085508
+	pos = 3.05971,11.77571,-0.6085516
 	attPos = 0,0,0
 	attPos0 = -1.870105,-0.5344072,-1.733012E-06
 	rot = 1.514731E-07,-1,3.56725E-13,-2.528811E-07
@@ -7922,10 +7922,10 @@ PART
 {
 	part = fuelTank3-2_4294439400
 	partName = Part
-	pos = 3.05971,19.27571,-0.6085503
+	pos = 3.059711,19.27571,-0.6085511
 	attPos = 0,0,0
 	attPos0 = -2.748975E-06,7.499999,-7.273674E-07
-	rot = -4.068316E-14,0.7071069,-1.616027E-14,0.7071069
+	rot = -3.723502E-14,0.7071069,-1.96084E-14,0.7071069
 	attRot = 0,0,0,1
 	attRot0 = -1.071074E-07,0.7071067,-1.071079E-07,-0.7071069
 	mir = 1,1,1
@@ -7977,10 +7977,10 @@ PART
 {
 	part = strutConnector_4294439368
 	partName = CompoundPart
-	pos = 1.851007,22.63093,-0.6085482
+	pos = 1.851007,22.63093,-0.6085488
 	attPos = 0,0,0
 	attPos0 = -7.165802E-07,3.355217,-1.208697
-	rot = 4.019437E-14,1.685874E-07,-2.234476E-07,-1
+	rot = 4.019437E-14,1.685874E-07,-2.234477E-07,-1
 	attRot = 0,0,0,1
 	attRot0 = 1.580009E-07,0.7071069,-1.580009E-07,-0.7071068
 	mir = 1,1,1
@@ -8037,10 +8037,10 @@ PART
 {
 	part = fuelTank1-2_4294439304
 	partName = Part
-	pos = 3.059712,6.150673,-0.6085503
+	pos = 3.059713,6.150667,-0.6085511
 	attPos = 0,0,0
 	attPos0 = -6.502745E-07,-5.625006,-7.273584E-07
-	rot = -4.068316E-14,0.7071069,-1.616027E-14,0.7071069
+	rot = -3.723502E-14,0.7071069,-1.96084E-14,0.7071069
 	attRot = 0,0,0,1
 	attRot0 = -1.071074E-07,0.7071067,-1.071079E-07,-0.7071069
 	mir = 1,1,1
@@ -8094,10 +8094,10 @@ PART
 {
 	part = liquidEngine1-2_4294439272
 	partName = Part
-	pos = 3.059713,3.210371,-0.6085497
+	pos = 3.059714,3.210367,-0.6085505
 	attPos = 0,0,0
 	attPos0 = -7.27363E-07,-2.940313,1.498926E-06
-	rot = -1.226144E-14,0.7071069,-1.616027E-14,0.7071069
+	rot = -8.813309E-15,0.7071069,-1.960841E-14,0.7071069
 	attRot = 0,0,0,1
 	attRot0 = -3.162647E-28,1.219102E-15,-7.305417E-22,1
 	mir = 1,1,1
@@ -8307,10 +8307,10 @@ PART
 {
 	part = fuelLine_4294434330
 	partName = CompoundPart
-	pos = 2.737185,7.466087,0.5951194
+	pos = 2.737185,7.46608,0.5951192
 	attPos = 0,0,0
 	attPos0 = -1.203666,1.315426,-0.3225209
-	rot = -3.164569E-07,0.6087615,-4.124147E-07,0.7933536
+	rot = -3.164569E-07,0.6087614,-4.124146E-07,0.7933535
 	attRot = 0,0,0,1
 	attRot0 = 6.785233E-08,-0.1305261,-5.1539E-07,0.9914449
 	mir = 1,1,1
@@ -8364,7 +8364,7 @@ PART
 {
 	part = fuelLine_4294435430
 	partName = CompoundPart
-	pos = -1.041346,7.411091,1.831619
+	pos = -1.041347,7.411083,1.83162
 	attPos = 0,0,0
 	attPos0 = -1.052962,1.260429,-0.6079267
 	rot = -6.766226E-08,0.2588208,2.525171E-07,-0.9659258
@@ -8421,7 +8421,7 @@ PART
 {
 	part = fuelLine_4294436172
 	partName = CompoundPart
-	pos = 0.6169851,7.36911,-2.608136
+	pos = 0.616986,7.369102,-2.608137
 	attPos = 0,0,0
 	attPos0 = -0.6053545,1.218448,-1.048501
 	rot = -6.305082E-07,0.866026,-3.640234E-07,0.4999998
@@ -8478,10 +8478,10 @@ PART
 {
 	part = fuelLine_4294433146
 	partName = CompoundPart
-	pos = -2.432702,7.509285,-1.654286
+	pos = -2.432702,7.509277,-1.654286
 	attPos = 0,0,0
 	attPos0 = -1.045738,1.358623,-0.6037575
-	rot = -1.408137E-07,0.8660268,8.129841E-08,-0.4999982
+	rot = -1.408137E-07,0.8660268,8.129839E-08,-0.4999982
 	attRot = 0,0,0,1
 	attRot0 = -4.208363E-08,0.258821,1.570569E-07,-0.9659253
 	mir = 1,1,1
